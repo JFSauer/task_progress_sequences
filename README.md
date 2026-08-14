@@ -25,7 +25,7 @@ task_progress_sequences_utils
 
 All codes were used in Python 3.13.5 (except rastermap, which was run in Python 3.11.13).
 
-Dependencies and used version main analysis (Python 3.13.5)
+Dependencies and used version main analysis (Python 3.13.5):
 
 numpy (2.3.1)
 scipy (1.16.0)
@@ -36,7 +36,7 @@ pingouin (0.5.5)
 h5py (3.14.0)
 sklearn (1.8.0)
 
-Dependencies and used version rastermap analysis (Python 3.11.13)
+Dependencies and used version rastermap analysis (Python 3.11.13):
 
 numpy (2.2.5)
 h5py (3.14.0)
